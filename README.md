@@ -71,17 +71,6 @@ Geo-Find/
 
 ---
 
-## 🎥 Demo
-
-<p align="center">
-  <img src="./src/videos/demo.gif" alt="GeoFind Application Demo" width="720"/>
-</p>
-
----
-
-
-
-
 
 
 
